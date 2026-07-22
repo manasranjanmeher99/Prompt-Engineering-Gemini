@@ -34,7 +34,7 @@ This project is ideal for beginners learning Prompt Engineering and Generative A
 ```
 Prompt-Engineering-Gemini/
 │
-├── app.py
+├── gemini_prompt.py
 ├── requirements.txt
 ├── README.md
 └── screenshots/
@@ -107,7 +107,7 @@ https://aistudio.google.com/
 ## ▶️ Run the Application
 
 ```bash
-streamlit run app.py
+streamlit run gemini_prompt.py
 ```
 
 The application opens at:
@@ -196,9 +196,8 @@ The application starts by asking the user to enter their Google Gemini API key.
 
 > **Screenshot**
 
-```
 ![Home](screenshots/home.png)
-```
+
 
 ---
 
